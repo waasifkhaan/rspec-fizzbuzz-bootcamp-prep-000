@@ -3,7 +3,7 @@ def fizzbuzz(int)
     puts "Fizz" # Go fizz
 elsif int % 5 == 0
 puts "Buzz"
-elseif int int % 5 == 0 && int % 3 == 0
+elseif int % 5 == 0 && int % 3 == 0
 puts "FizzBuzz"
 else
   puts "nil"
